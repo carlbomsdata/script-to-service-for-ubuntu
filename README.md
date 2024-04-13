@@ -15,7 +15,7 @@ Before you start using these scripts, make sure you have:
 
 ## Installation
 
-### Clone the Repository and make script executable:
+#### Clone the Repository and make script executable:
    ```bash
    git clone https://github.com/manprinsen/script-to-service-for-ubuntu.git
    ```
@@ -27,8 +27,8 @@ Before you start using these scripts, make sure you have:
    ```
 
 ## Usage
-
-### To start installing your script, run:
+Ensure that your Python or Bash script file is in the script-to-service-for-ubuntu directory before executing the command below:
+#### To start installing your script, run:
    ```bash
    sudo ./install.sh
    ```
